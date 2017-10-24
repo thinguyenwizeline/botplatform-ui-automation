@@ -1,8 +1,0 @@
-#### Description: Test file for login screen
-####    DO NOT add tests to this file
-#### Date               Author                      Comment
-#### 22/09/2017         Thi Nguyen                  Create new class
-###############################################################################
-
-= Login Header =
-@import login_header.gspec
