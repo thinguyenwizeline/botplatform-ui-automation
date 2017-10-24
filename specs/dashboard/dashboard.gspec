@@ -1,0 +1,12 @@
+#### Description: Test file for login screen
+####    DO NOT add tests to this file
+#### Date               Author                      Comment
+#### 27/09/2017         Thi Nguyen                  Create new class
+###############################################################################
+
+= App Header =
+@import dashboard_app_header.gspec
+= Header Content =
+@import dashboard_header_content.gspec
+= Bot List =
+@import dashboard_bot_list.gspec

@@ -1,0 +1,22 @@
+#### Description: repository of objects for Login used on spec files
+####    DO NOT add tests to this file
+#### Date               Author                      Comment
+#### 27/09/2017         Thi Nguyen                  Create new class
+################################################################################
+
+@objects
+##--App Header-----------
+    dashboard-wizeline-logo                              .app-header-image
+    dashboard-wizeline-title                             .app-header-title
+    dashboard-profile-image                              .profile-image
+    dashboard-profile-username                           .profile-username
+##--Page Header----------
+    page-header-image                                    .page-header-image
+    page-header-title                                    .page-header-title                                      
+    create-bot-button                                    .action-btn sc-bxivhb iseeCv
+##--Bot List----------
+    bot-card                                             .bot-card
+    bot-image                                            #bot-card-title img[alt='bot-card-logo']
+    bot-card-title                                       .bot-card-title
+    bot-lastest-updated-text                             .bot-card-last-updated
+    bot-lastest-updated-datetime                         .bot-card-last-updated-strong

@@ -1,0 +1,17 @@
+#### Description: repository of objects for Login used on spec files
+####    DO NOT add tests to this file
+#### Date               Author                      Comment
+#### 22/09/2017         Thi Nguyen                  Create new class
+################################################################################
+
+@objects
+##--Login header-----------
+    login-header                                        .auth0-lock-header
+    login-image                                         .auth0-lock-header-logo
+
+##--Login content----------
+    tab-container                                       
+
+
+
+##--Login footer----------
