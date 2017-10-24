@@ -1,0 +1,21 @@
+#### Description: Test file for login header
+####    DO NOT add tests to this file
+#### Date               Author                      Comment
+#### 22/09/2017         Thi Nguyen                  Create new class
+################################################################################
+@import ../../object/objects_login.gspec
+
+= Header =
+    login-header:
+        css text-align is "center"
+        css padding is "11px"
+        css height is "116px"
+        css color is "#333"
+        css position is "relative"
+        css background is "#fff"
+        css overflow is "hidden"
+        css box-sizing is "border-box"
+= Logo =
+    login-image:
+        css width is "200px"
+        css vertical-align is "middle"

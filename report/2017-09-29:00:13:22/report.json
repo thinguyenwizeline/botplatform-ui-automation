@@ -1,0 +1,18 @@
+{
+  "tests" : [ {
+    "name" : "UI testing for Dashboard Page",
+    "startedAt" : 1506618803604,
+    "endedAt" : 1506618845490,
+    "failed" : true,
+    "statistic" : {
+      "passed" : 10,
+      "errors" : 4,
+      "warnings" : 0,
+      "total" : 14
+    },
+    "testId" : "1-ui-testing-for-dashboard-page",
+    "groups" : [ "ui", "dashboard", "smoke" ],
+    "failed" : true,
+    "duration" : 41886
+  } ]
+}
